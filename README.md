@@ -1,2 +1,2 @@
 # hello-world
-This is a short description that i am writing as an example.
+This is a short description that I am writing as an example.
